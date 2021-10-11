@@ -4,7 +4,8 @@
 ![me](https://github.com/ElinaSmall/hERG_model/blob/main/images/ecg-qrscomplex.gif)
 ![me](https://github.com/ElinaSmall/hERG_model/blob/main/images/Torsades_de_Pointes_heart_monitor_animation.gif)
 
-Согласно гайдлайну [ICH E14](https://pubmed.ncbi.nlm.nih.gov/18329284/)  строго рекомендуется на ранних стадиях разработки учитывать потенциальную кардиотоксичность разрабатываемой молекулы.
+Согласно гайдлайну [ICH E14](https://pubmed.ncbi.nlm.nih.gov/18329284/)  строго рекомендуется на ранних стадиях разработки учитывать потенциальную кардиотоксичность разрабатываемой молекулы. Известные лекарства были ограничены в применениии или сняты с производства в связи с высоким риском кардиотоксичности: Astemizole, Terfenadine, Grepafloxacine, Cisapride.
+
 > Raschi E. et al. The hERG K+ channel: target and antitarget strategies in drug development //Pharmacological research. – 2008. – Т. 57. – №. 3. – С. 181-195.
 
 Работа состояла из следующих этапов:
