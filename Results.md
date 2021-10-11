@@ -99,3 +99,12 @@ TPSA                -0.232164
 Наиболее важными параметрами с Mean accuracy decrease > 0.005 оказались следующие:
 
 "LogP", "MR", "#amine", "CNS", 'dipole', 'ACxDN^.5/SA', 'glob', 'QPlogPo/w'
+Описание согласно мануалу:
+  - LogP - (от физико-химических: аналогично QPlogPo/w ниже)
+  - MR - (от физико-химических: молекулярный вес)
+  - #amine - Number of non-conjugated amine groups
+  - CNS - Predicted central nervous system activity
+  - dipole - Computed dipole moment of the molecule
+  - ACxDN^.5/SA - Index of cohesive interaction in solids
+  - glob - Globularity descriptor
+  - QPlogPo/w - Predicted octanol/water partition coefficient
