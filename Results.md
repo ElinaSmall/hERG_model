@@ -15,6 +15,6 @@
 
 2. Анализ датасета.
   - Статистический анализ по целевому значению переменной (IC50).
- ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/df_stat.JPG)
+ ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/df_stat.JPG)    ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/train_stat.JPG)
 
 
