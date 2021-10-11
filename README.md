@@ -39,3 +39,5 @@
   - Использование PaDEL программы для расчета дескрипторов.
   - Использование фармакофорных 2D fingerprints.
 4. Оценка модели на независимой выборке из hERG-central (in-house данных).
+
+С результатами работы можно ознакомиться по ссылке: <https://github.com/ElinaSmall/hERG_model/blob/main/Results.md>
