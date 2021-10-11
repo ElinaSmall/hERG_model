@@ -8,6 +8,11 @@
 
 > Raschi E. et al. The hERG K+ channel: target and antitarget strategies in drug development //Pharmacological research. – 2008. – Т. 57. – №. 3. – С. 181-195.
 
+Обзор существующих моделей: 
+![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/Обзор.JPG)
+
+> Rácz A. et al. Machine learning models for classification tasks related to drug safety //Molecular Diversity. – 2021. – С.1-16.
+
 Работа состояла из следующих этапов:
 1. Работа с открытыми базами данных соединений.
   - ChEMBL
