@@ -1,6 +1,6 @@
 # hERG_model
 Кардиотоксичность  наиболее часто наблюдается при приеме препаратов, имеющих высокие показатели аффинности к hERG-каналам (hERG: human ether-à-go-go  related gene кодирует альфа-субъединицу калиевых каналов KCNH2). Доказано, что блокада калиевых каналов KCNH2 приводит к QT-пролонгации на ЭКГ. Впоследствии это приводит к возникновению у пациента аритмии по типу Torsades de Pointes (TdP), риска желудочковой фибрилляция и спонтанной смерти. 
-![me](https://github.com/ElinaSmall/hERG_model/blob/main/images/ecg.gif)
+![me](https://github.com/ElinaSmall/hERG_model/blob/main/images/ecg-qrscomplex.gif)
 Согласно гайдлайну [ICH E14](https://pubmed.ncbi.nlm.nih.gov/18329284/)  строго рекомендуется на ранних стадиях разработки учитывать потенциальную кардиотоксичность разрабатываемой молекулы.
 > Raschi E. et al. The hERG K+ channel: target and antitarget strategies in drug development //Pharmacological research. – 2008. – Т. 57. – №. 3. – С. 181-195.
 
