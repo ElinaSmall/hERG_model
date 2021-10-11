@@ -33,7 +33,7 @@
   Соединения-стереоизомеры из обучающей выборки с различной IC50:
   ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/pairs_stereoisomers_diff_train.JPG)
   Соединения-стереоизомеры из тестовой выборки с различной IC50:
-  ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/pairs_stereoisomers_diff_test.JPG)
+  ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/pairs_stereoisom_diff_test.JPG)
  
 
 
