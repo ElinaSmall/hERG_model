@@ -17,5 +17,14 @@
   - Статистический анализ по целевому значению переменной (IC50).
  ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/df_stat.JPG)    ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/train_stat.JPG)
  ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/test_stat.JPG)
+  - Анализ на схожесть (similarity-анализ) обучающей и тестовой выборок. Similarity-анализ был для двух выорок реализован следующим образом:
+  1. Расчет Tanimoto_matrix (где в узлах матрицы расположены значения Tanimoto index между каждым соединением из выборки №1 с каждым соединением из выборки №2).
+  2. Подсчет количества сходных соединений в различных диапазонах Tanimoto_index (0-0.33, 0.33-0.66, 0.66-1.00).
+  3. Построение графика распределения по парным значениям Tanimoto_index.
+  Для similarity-анализа двух выборок обучающей и тестовой (train и test):
+  Counter({'Tanimoto_index = 0.66 - 1.00': 1056, 'Tanimoto_index = 0.33 - 0.66': 419, 'Tanimoto_index = 0.00 - 0.33': 101})
+  1056 соединений из обучающей выборки явлюятся хорошо похожими на таковые соединения из тестовой выборки, и лишь 101 соединения совсем не похожи друг на друга. Следовательно, построенная модель будет верно предсказывать тестовую выборку, деление на обучающие и тестовые наборы прошло успешно. 
+  ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/test-train-sim-matrix.JPG)
+ 
 
 
