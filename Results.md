@@ -49,6 +49,7 @@
 Counter({'Tanimoto_index = 0.66 - 1.00': 4279, 'Tanimoto_index = 0.33 - 0.66': 1590, 'Tanimoto_index = 0.00 - 0.33': 434}), 
 
 4279 из 6303 (~70%) соединений довольно схожи друг с другом. Это означает, что мы можем столкнуться с проблемой, когда модель научится предсказывать только данный "кластер" соединений...
+
 ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/test-test_matrix.JPG)
 
 Counter({'Tanimoto_index = 0.33 - 0.66': 654, 'Tanimoto_index = 0.66 - 1.00': 601, 'Tanimoto_index = 0.00 - 0.33': 321}). 
