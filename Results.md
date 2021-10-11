@@ -108,3 +108,7 @@ TPSA                -0.232164
   - ACxDN^.5/SA - Index of cohesive interaction in solids
   - glob - Globularity descriptor
   - QPlogPo/w - Predicted octanol/water partition coefficient
+
+Модель, построенная исключительно на данных дескрипторах склонна к переобучению даже на выборке с теми соединениями, которые ей однозначно знакомы:
+
+![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/schroed_roc_auc.JPG)
