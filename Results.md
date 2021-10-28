@@ -26,7 +26,9 @@
 
 Далее была проведена кластеризация соединений с помощью пакета KNN от PatWalter (https://github.com/PatWalters/kmeans) на 500 кластеров. С параметрами: fp = morgan3, dim = 2048, samples = 6000: 
 
-![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/ROC_AUC_4.JPG)
+![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/clustering.JPG)
+
+Как видно на гистограмме, кластер под номером 226 оказался наиболее многочисленным по числу соединений. Однако структры, входящие в него также довольно разнородны.
 
 ## 2. Анализ датасета. ##
   - Статистический анализ по целевому значению переменной (IC50).
