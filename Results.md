@@ -24,6 +24,10 @@
 | 3  | Проставление меток класса (граница IC50 = 10 мкМ)| 306895 |
 | 4  |  	Исключение солевых форм |	294939 |
 
+Далее была проведена кластеризация соединений с помощью пакета KNN от PatWalter (https://github.com/PatWalters/kmeans) на 500 кластеров. С параметрами: fp = morgan3, dim = 2048, samples = 6000: 
+
+![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/ROC_AUC_4.JPG)
+
 ## 2. Анализ датасета. ##
   - Статистический анализ по целевому значению переменной (IC50).
  ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/df_stat.JPG)    ![Image alt](https://github.com/ElinaSmall/hERg_model/raw/main/images/train_stat.JPG)
